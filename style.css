@@ -1,19 +1,25 @@
-*{
+body{
     background-color: black;
-    font-family: 'Caveat', cursive;
+   
 }
 
-img{
+.img{
     border: 5px solid white;
-    margin-top: 10px;
+    width: 50%;
 }
 
-div{
+.poster{
+    width: 100%;
     text-align: center;
+    margin-top: 100px;
+    margin-left: 20px;
+    font-family: 'Caveat', cursive;
 }
 h1{
     background-color: black;
     color:white;
+    text-transform: uppercase;
+   
 }
 
 p{
